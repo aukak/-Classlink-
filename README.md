@@ -16,22 +16,16 @@
 - **Customizable Settings:** Tailor proxy configurations to meet specific user requirements.
 - **Open Source:** Transparent codebase available on GitHub for community contributions and audits.
 
-## How to Use
-
-1. **Access Truffles:** Navigate to [truffles.lol](https://truffles.lol) in your web browser.
-2. **Configure Proxy Settings:** Follow the on-screen instructions to set up Truffles as your proxy.
-3. **Start Browsing:** Enjoy secure and anonymous access to the internet, bypassing restrictions effortlessly.
-
 ## Author
 
 **Aukak**
 
 - [GitHub](https://github.com/aukak)
-- [Twitter](https://twitter.com/your-twitter-handle) _(if applicable)_
+- [Twitter](https://twitter.com/boogiebuck) _(if applicable)_
 
 ## Acknowledgments
 
-- Inspired by the [truffled.lol](https://truffled.lol) proxy service.
+- Inspired by the [truffled.lol](https://truffled.lol) game site
 - Special thanks to the open-source community for their invaluable contributions and support.
 
 ## Disclaimer
